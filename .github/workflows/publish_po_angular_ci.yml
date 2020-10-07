@@ -12,6 +12,9 @@ env:
   AZURE_WEBAPP_PACKAGE_PATH: /home/runner/work/po-angular/po-angular/po-angular/dist/portal 
   WORKING_DIR: /home/runner/work/po-angular/po-angular/po-angular 
 
+
+
+
 on:
   workflow_dispatch:
 
